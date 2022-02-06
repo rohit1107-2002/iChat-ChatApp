@@ -18,7 +18,7 @@
 
 ## Demo :
 ### Room 1 with 2 Users :
-#### User 1 : Rohit & User 2: Rahul
+#### User 1 : Rohit & User 2 : Rahul
 ![Screenshot (6345)](https://user-images.githubusercontent.com/80086654/152690449-641e8588-652e-4ceb-b6e0-5045e2567e89.png)
 #
 ### Room 1 with 3 Users :
