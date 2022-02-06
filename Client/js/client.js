@@ -1,4 +1,4 @@
-const socket=io('http://localhost:9000');
+const socket=io('http://localhost:8000');
 
 // Get DOM elements in rspective JS variables
 const form=document.getElementById('send-container');
